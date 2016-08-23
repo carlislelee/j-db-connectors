@@ -1,0 +1,6 @@
+/*
+/*/
+!/src/
+!/lib/
+!*.sh
+!.gitignore
