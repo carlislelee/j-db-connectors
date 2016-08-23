@@ -1,1 +1,1 @@
-# j-db-connectors
+# demo for db connect in Java
